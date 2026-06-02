@@ -1,4 +1,4 @@
-let nome = "eduardo";
+let nome = "GUsta";
  let idade = 18;
  let cidade = "cascavel";
  function Tabuada(num){
